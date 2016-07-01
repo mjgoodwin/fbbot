@@ -1,11 +1,11 @@
 FBBot - the Ruby Hack Night Facebook Bot
 ========================================
 
-Slides and assets for the FBBot workshop [first presented at Toronto Ruby Hack Night, June 30, 2016]  
+Slides and assets for the FBBot workshop [first presented at Toronto Ruby Hack Night, June 30, 2016]
 Workshop for learning Chatbots, Facebook messaging and Wit.ai
-Created by David Andrews and Jason Schweier  
+Created by David Andrews and Jason Schweier
 
-Slides for the workshop are here: _FYI remarkise doesn't work in Safari, sorry_  
+Slides for the workshop are here: _FYI remarkise doesn't work in Safari, sorry_
 https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/k00ka/fbbot/master/SLIDES.md
 
 ###Introduction
@@ -20,10 +20,10 @@ This project is a simple Ruby project. The workshop comes in four parts:
 Here are the steps to get you started with the repo.
 
 1. For this workshop, you will need a laptop with the following:
-  - [x] Ruby 2.x  
-  - [x] A Github account  
+  - [x] Ruby 2.x
+  - [x] A Github account
 
-  Note: We have included a ``.ruby-version`` file locked to 2.2.3, which you can change to any Ruby 2.x version if you don't have 2.2.3 installed  
+  Note: We have included a ``.ruby-version`` file locked to 2.2.3, which you can change to any Ruby 2.x version if you don't have 2.2.3 installed
   More detailed instructions for each platform are included in the footer. Refer there if you are having issues.
 
 1. Fork the repo (optional, recommended):
@@ -53,7 +53,7 @@ Here are the steps to get you started with the repo.
   ```
   You are (almost) there!
 
-## How to set up a conversation with your own Faecbook bot
+## How to set up a conversation with your own Facebook bot
 
 1. do the above
 1. create an ngrok account - http://ngrok.com

@@ -3,7 +3,7 @@ require 'facebook/messenger'
 include Facebook::Messenger
 
 unless ARGV.size == 4
-  STDERR.puts "Usage: #{$0} <app_secret> <access_token> <verify_token> config.ru"
+  STDERR.puts "Usage: #{$0} <app_secret> <access_token> <verify_token> config1.ru"
   exit 1
 end
 
